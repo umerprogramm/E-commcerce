@@ -1,0 +1,78 @@
+.merch{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.merch>p{
+    color: aliceblue;
+    font-size: x-large;
+    padding: 5px;
+    margin-left: 300px;
+    
+}
+
+.merch>p:hover{
+    border-bottom: 2px  solid white;
+    cursor: pointer;
+}
+
+.hoodies{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hoodies>div>img{
+    margin-top: 10px;
+    height: 400px;
+    cursor: pointer;
+
+}
+
+.hoodies>div>img:hover{
+
+    border-bottom: 2px solid white;
+
+}
+
+.hoodies>P{
+    display:flex;
+    flex-direction: none;
+}
+.second_section{
+    margin-top: 200px;
+
+    display: flex;
+    flex-direction: row;
+    
+}
+.second_section>p{
+    color: aliceblue;
+    font-size: x-large;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+
+  
+}
+
+.Ys_merch{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Ys_merch>div>img{
+    margin-top: 10px;
+    height: 400px;
+    cursor: pointer;
+}
+.Ys_merch>div>img:hover{
+    border-bottom: 2px solid white;
+
+}

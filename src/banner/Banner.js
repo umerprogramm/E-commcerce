@@ -23,7 +23,7 @@ export default function Banner() {
 
     { 
     condition ?
-      <img data-aos="fade-down" src={banner} alt='banner'/>:
+      <img data-aos="fade-left" src={banner} alt='banner'/>:
 
       <img  data-aos='fade-out'src={banner2} alt='banner'/>
     }  
