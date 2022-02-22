@@ -30,7 +30,7 @@ export default function Nav() {
                     </li>
                 </ul>
             </nav>
-
+              
 
         </div>
     )

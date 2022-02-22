@@ -1,7 +1,7 @@
 .Announcement{
     height: 40px;
     width: 100%;
-    background-color: rgb(34, 34, 34);
+    background-color:#0f0f0f;
 }
 
 p{
@@ -53,3 +53,11 @@ li:hover {
     border-bottom: 3px solid white;
     cursor: pointer;
   }
+nav>img{
+  display: none;
+}
+.menu{
+  display: none;
+}
+ 
+    

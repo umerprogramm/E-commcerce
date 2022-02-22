@@ -6,6 +6,8 @@ import dont_mind from '../Assets/dont_mind.png'
 
 export default function YS_merch() {
   return (
+    
+<>
     <div className='Ys_merch'>
 
 <div>
@@ -35,5 +37,9 @@ export default function YS_merch() {
 
 </div>
     </div>
+    <p className='button'>ALL PRODUCT</p>
+    <hr style={{color : 'white',marginTop : "60px"}}/>
+
+    </>
   )
 }

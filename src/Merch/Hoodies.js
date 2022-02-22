@@ -3,12 +3,11 @@ import Ninemm from '../Assets/9mm.png'
 import chaos from '../Assets/chaos.png'
 import i_run from '../Assets/i_run.png'
 import ski_mask from '../Assets/ski_mask.png'
-
-
 import './merch.css'
 
 export default function Hoodies() {
   return (
+    <>
     <div className='hoodies'>
         <div>
 <img data-aos='fade-in' data-aos-duration='3000'  src={Ninemm} alt='9mm'/>
@@ -36,6 +35,9 @@ export default function Hoodies() {
 <p><span style={{color : 'rebeccapurple'}}>RS.5,299</span></p>
 
 </div>
+<br/>
     </div>
+<p className='button'>ALL PRODUCT</p>
+    </>
   )
 }
