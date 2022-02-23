@@ -10,7 +10,7 @@ export default function Merch() {
     <div data-aso='fade-in' className='merch'>
 
       <p>HOODIES</p>
-      <p>SWEATSHIRTS</p>
+      <p>SWEAT SHIRTS</p>
 
 
 
